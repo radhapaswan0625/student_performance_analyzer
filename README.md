@@ -17,3 +17,7 @@ This is a Python project that analyzes student performance.
 2. Run the Python file
 
 python student_performance.py
+
+## Project Screenshot
+
+![Student Performance Analyzer Output](output.png)
