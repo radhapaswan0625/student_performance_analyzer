@@ -22,4 +22,12 @@ python student_performance.py
 
 ![Student Performance Analyzer Output](output.png)
 
+## Project Structure
+
+StudentPerformanceAnalyzer/
+│
+├── student_performance.py
+├── README.md
+└── screenshot.png
+
 
