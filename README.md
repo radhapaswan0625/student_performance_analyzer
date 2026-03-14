@@ -26,8 +26,8 @@ python student_performance.py
 
 StudentPerformanceAnalyzer/
 │
-├── student_performance.py
-├── README.md
-└── screenshot.png
+├── student_performance.py   # Main Python program
+├── README.md                # Project description and instructions
+└── screenshot.png           # Screenshot of program output
 
 
